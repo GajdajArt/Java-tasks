@@ -12,7 +12,7 @@ public class Chapter2Task1 {
 
     public static void main(String[] args) {
 
-        if (ARGUMENT_A > 0 && ARGUMENT_B > 0) {
+        if ((ARGUMENT_A > 0) && (ARGUMENT_B > 0)) {
             int divider = getGreatestCommonDivisor(ARGUMENT_A, ARGUMENT_B);
             System.out.print(POSITIVE_RESULT_DESCRIPTION + divider);
         } else {

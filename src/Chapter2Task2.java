@@ -4,11 +4,15 @@
  */
 public class Chapter2Task2 {
 
+    private static final int ARBITRARY_INTEGER = 741;
+
+    private static final String INCOMING_NUMBER_DESCRIPTION = "Входящее число = ";
+    private static final String SUM_OF_DIGITS_DESCRIPTION = "Сумма цифр = ";
+
     public static void main(String[] args) {
 
-        /**Произвольное целое число*/
-        int arg = 741;
-        System.out.println("Входящее число = " + arg);
+        int arg = ARBITRARY_INTEGER;
+        System.out.println(INCOMING_NUMBER_DESCRIPTION + arg);
 
         int sum = 0;
         int mod;
@@ -19,6 +23,6 @@ public class Chapter2Task2 {
             sum += mod;
         }
 
-        System.out.println("Сумма цифр = " + sum);
+        System.out.println(SUM_OF_DIGITS_DESCRIPTION + sum);
     }
 }
