@@ -4,34 +4,36 @@
  **/
 public class Chapter2Task1 {
 
+    private static final int ARGUMENT_A = 0;
+    private static final int ARGUMENT_B = 12;
+
+    private static final String POSITIVE_RESULT_DESCRIPTION = "Наименьший общий делитель = ";
+    private static final String NEGATIVE_RESULT_DESCRIPTION = "Числа должны быть больше нуля";
+
     public static void main(String[] args) {
 
-        /**Два целых положительных числа*/
-        int arg1 = 0;
-        int arg2 = 12;
-
-        if (arg1 > 0 && arg2 > 0) {
-            int divider = getDivider(arg1, arg2);
-            System.out.print("Наименьший общий делитель = " + divider);
+        if (ARGUMENT_A > 0 && ARGUMENT_B > 0) {
+            int divider = getGreatestCommonDivisor(ARGUMENT_A, ARGUMENT_B);
+            System.out.print(POSITIVE_RESULT_DESCRIPTION + divider);
         } else {
-            System.out.print("Числа должны быть больше нуля");
+            System.out.print(NEGATIVE_RESULT_DESCRIPTION);
         }
     }
 
-    private static int getDivider(int i1, int i2) {
+    private static int getGreatestCommonDivisor(int argumentA, int argumentB) {
 
         int result = 0;
 
-        int minArg;
-        if (i1 <= i2) {
-            minArg = i1;
+        int minimum;
+        if (argumentA <= argumentB) {
+            minimum = argumentA;
         } else {
-            minArg = i2;
+            minimum = argumentB;
         }
 
-        for (int j = 1; j <= minArg; j++) {
-            if ((i1 % j == 0) && (i2 % j == 0)) {
-                result = j;
+        for (int i = 1; i <= minimum; i++) {
+            if ((argumentA % i == 0) && (argumentB % i == 0)) {
+                result = i;
             }
         }
 
