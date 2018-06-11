@@ -1,14 +1,15 @@
 package chapter_4_task_2;
 
-import chapter_4_task_1.Circle;
-
 public class Vector<T> {
+
+    private static final int DEFAULT_SIZE = 100;
 
     private T[] array;
     private int numberOfLinks;
 
     public Vector() {
-//        this.array = new T[100];
+        this.array = (T[]) new Object[DEFAULT_SIZE];
+        numberOfLinks = 0;
     }
 
     public Vector(T[] array) {
@@ -20,9 +21,44 @@ public class Vector<T> {
         for (int i = 0; i < array.length; i++) {
             array[i] = null;
         }
+        numberOfLinks = 0;
     }
 
-    public Circle get(int position) {
-        return null;
+    public void add(T object) {
+        numberOfLinks++;
+        if (array.length >= numberOfLinks) {
+            array[numberOfLinks - 1] = object;
+        } else {
+            T[] newArray = (T[]) new Object[numberOfLinks];
+            for (int i = 0; i < array.length; i++) {
+                newArray[i] = array[i];
+            }
+            newArray[numberOfLinks - 1] = object;
+            array = newArray;
+            newArray = null;
+        }
+    }
+
+    public void remove(int position) {
+        if (array.length > position) {
+            array[position] = null;
+            numberOfLinks--;
+        }
+    }
+
+    public T get(int position) {
+        return array[position];
+    }
+
+    public void showAllItems() {
+        for (int i = 0; i < array.length; i++) {
+            if (array[i] != null) {
+                System.out.println(array[i].toString());
+            }
+        }
+    }
+
+    public int size() {
+        return numberOfLinks;
     }
 }

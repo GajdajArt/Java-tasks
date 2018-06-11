@@ -15,7 +15,6 @@ public class Try {
     private static final double MOVE_TO_X = 5.3;
     private static final double MOVE_TO_Y = 5.3;
 
-
     public static void main(String[] args) {
 
         Circle circleOne = new Circle(FIRST_CIRCLE_X, FIRST_CIRCLE_Y, FIRST_CIRCLE_RADIUS);
