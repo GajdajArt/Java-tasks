@@ -7,7 +7,7 @@ public class Chapter6Task5 {
         Scanner scanner = new Scanner(System.in);
         String inputLine = scanner.nextLine();
 
-        SplitterC5T5 splitter = new SplitterC5T5(inputLine);
+        SplitterC6T5 splitter = new SplitterC6T5(inputLine);
         splitter.printArray();
 
     }

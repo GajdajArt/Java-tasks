@@ -1,4 +1,4 @@
-public class SplitterC5T5 {
+public class SplitterC6T5 {
 
     private static final char[] PUNCTUATION_MARKS_ARRAY = {' ', ',', '.', '!', '?'};
 
@@ -9,7 +9,7 @@ public class SplitterC5T5 {
 
     private String inputLine;
 
-    public SplitterC5T5(String inputLine) {
+    public SplitterC6T5(String inputLine) {
         this.inputLine = inputLine;
     }
 
