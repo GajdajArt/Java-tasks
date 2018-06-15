@@ -39,7 +39,7 @@ public class IntegerArray implements Inversion {
 
         int[] result = new int[array.length];
         for (int i = 0; i < array.length; i++) {
-            result[array.length - 1 - i] = array[i];
+            result[(array.length - 1) - i] = array[i];
         }
         return result;
     }
@@ -62,7 +62,7 @@ public class IntegerArray implements Inversion {
 
         @Override
         public int getMedian() {
-            return array[array.length / 2];
+            return array[(array.length  - 1) / 2];
         }
 
         @Override
