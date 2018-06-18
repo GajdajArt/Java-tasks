@@ -1,4 +1,5 @@
 import java.io.File;
+import java.io.FileFilter;
 
 public class Chapter9Task4_5 {
 
@@ -16,7 +17,26 @@ public class Chapter9Task4_5 {
 
     private static void getFiles(File folder) {
 
-        File[] folderEntries = folder.listFiles();
+        File[] folderEntries = folder.listFiles(new FileFilter() {
+            @Override
+            public boolean accept(File pathname) {
+
+                boolean result = false;
+                String name = pathname.getName();
+                int latIndexPfDot = name.lastIndexOf(".");
+                String type = null;
+
+                if (latIndexPfDot > 0) {
+                    type = name.substring(latIndexPfDot);
+                }
+
+                if (type.equals(TXT_TYPE) || type.equals(JAVA_TYPE) || type.equals(CLASS_TYPE)) {
+                    result = true;
+                }
+                return result;
+            }
+        });
+
 
         for (int i = 0; i < folderEntries.length; i++) {
             if (folderEntries[i].isDirectory()) {
