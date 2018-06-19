@@ -8,7 +8,7 @@ public class Chapter9Task1 {
     private static final String SOME_NEW_TEXT = "Some new text";
     private static final String DIR = "C:\\Users\\pc\\Desktop";
 
-    private static final int BURRER_SIZE = 1024;
+    private static final int BUFFER_SIZE = 1024;
 
 
 
@@ -67,7 +67,7 @@ public class Chapter9Task1 {
         try {
             is = new FileInputStream(originalFile);
             os = new FileOutputStream(newFile);
-            byte[] buffer = new byte[BURRER_SIZE];
+            byte[] buffer = new byte[BUFFER_SIZE];
             int length;
             while ((length = is.read(buffer)) > 0) {
                 os.write(buffer, 0, length);

@@ -2,17 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0308a05-ae2e-4b56-9b19-249afb1287c5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section_2/chapter_2_task_1/MyRunnableThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_2/chapter_2_task_1/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_2/chapter_2_task_1/Try.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_2/chapter_2_task_2/MySchedule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_2/chapter_2_task_2/Try.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_2/chapter_2_task_3/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_2/chapter_2_task_3/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_2/chapter_2_task_3/Try.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_2/chapter_2_task_4/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_2/chapter_2_task_4/Try.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_2/chapter_3_task_1/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_2/chapter_3_task_1/Try.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_2/chapter_3_task_2/Timer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_2/chapter_3_task_2/Try.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter9Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter9Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_2/chapter_2_task_4/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_2/chapter_2_task_4/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_2/chapter_2_task_4/Try.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_2/chapter_2_task_4/Try.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,24 +25,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Try.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/section_2/chapter_2_task_4/Try.java">
+      <file leaf-file-name="Timer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/section_2/chapter_3_task_2/Timer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+            <state relative-caret-position="270">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
               <folding>
-                <element signature="e#672#673#0" expanded="true" />
-                <element signature="e#699#700#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyThread.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/section_2/chapter_2_task_4/MyThread.java">
+      <file leaf-file-name="Try.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/section_2/chapter_3_task_2/Try.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+            <state relative-caret-position="165">
+              <caret line="11" column="81" selection-start-line="11" selection-start-column="81" selection-end-line="11" selection-end-column="81" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -60,18 +59,18 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Thread(</find>
+      <find>run(</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/сhapter_7_task_1/Converter.java" />
-        <option value="$PROJECT_DIR$/src/сhapter_7_task_1/AlasException.java" />
-        <option value="$PROJECT_DIR$/src/chapter_7_task_2/QueueException.java" />
-        <option value="$PROJECT_DIR$/src/chapter_7_task_2/Queue.java" />
-        <option value="$PROJECT_DIR$/src/chapter_7_task_2/Try.java" />
-        <option value="$PROJECT_DIR$/src/Chapter6Task1.java" />
         <option value="$PROJECT_DIR$/src/test/jkjkjk.java" />
         <option value="$PROJECT_DIR$/src/chapter_8_task_1/IntArray.java" />
         <option value="$PROJECT_DIR$/src/chapter_8_task_1/Inversion.java" />
@@ -115,8 +114,14 @@
         <option value="$PROJECT_DIR$/src/section_2/chapter_2_task_3/Try.java" />
         <option value="$PROJECT_DIR$/src/section_2/chapter_2_task_3/Counter.java" />
         <option value="$PROJECT_DIR$/src/section_2/chapter_2_task_3/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/section_2/chapter_2_task_4/Try.java" />
         <option value="$PROJECT_DIR$/src/section_2/chapter_2_task_4/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/section_2/chapter_2_task_4/Try.java" />
+        <option value="$PROJECT_DIR$/src/section_2/chapter_3_task_1/FirstClass.java" />
+        <option value="$PROJECT_DIR$/src/section_2/chapter_3_task_1/Try.java" />
+        <option value="$PROJECT_DIR$/src/section_2/chapter_3_task_1/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/Chapter9Task1.java" />
+        <option value="$PROJECT_DIR$/src/section_2/chapter_3_task_2/Try.java" />
+        <option value="$PROJECT_DIR$/src/section_2/chapter_3_task_2/Timer.java" />
       </list>
     </option>
   </component>
@@ -163,7 +168,7 @@
               <item name="Java-tasks1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="section_2" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_2_task_4" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_3_task_2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -189,30 +194,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Try (3)">
-    <configuration name="Chapter1Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_2.Chapter1Task2" />
-      <module name="JavaTasks" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="section_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.Try">
     <configuration name="Chapter9Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter9Task1" />
       <module name="JavaTasks" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Try (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_2.chapter_2_task_2.Try" />
+    <configuration name="Deadlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_2.chapter_3_task_1.Deadlock" />
       <module name="JavaTasks" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section_2.chapter_2_task_2.*" />
+          <option name="PATTERN" value="section_2.chapter_3_task_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,24 +233,24 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Try" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_2.Try" />
+    <configuration name="Try (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_2.chapter_3_task_1.Try" />
       <module name="JavaTasks" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section_2.*" />
+          <option name="PATTERN" value="section_2.chapter_3_task_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="Try" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_2.chapter_2_task_1.Try" />
+      <option name="MAIN_CLASS_NAME" value="section_2.chapter_3_task_2.Try" />
       <module name="JavaTasks" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section_2.chapter_2_task_1.*" />
+          <option name="PATTERN" value="section_2.chapter_3_task_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -303,19 +297,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Chapter1Task2" />
-      <item itemvalue="Application.Try" />
-      <item itemvalue="Application.Try (1)" />
       <item itemvalue="Application.Try (2)" />
       <item itemvalue="Application.Try (3)" />
+      <item itemvalue="Application.Try (4)" />
+      <item itemvalue="Application.Deadlock" />
+      <item itemvalue="Application.Try" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Try" />
+        <item itemvalue="Application.Try (4)" />
+        <item itemvalue="Application.Deadlock" />
         <item itemvalue="Application.Try (3)" />
         <item itemvalue="Application.Try (2)" />
-        <item itemvalue="Application.Try (1)" />
-        <item itemvalue="Application.Try (1)" />
-        <item itemvalue="Application.Try" />
       </list>
     </recent_temporary>
   </component>
@@ -407,7 +401,14 @@
       <option name="project" value="LOCAL" />
       <updated>1529392240900</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="section 2 chapter 2">
+      <created>1529409594814</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1529409594814</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView">
@@ -421,7 +422,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1617" height="1062" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
@@ -432,11 +432,11 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32950923" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3261105" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3261105" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936078" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24282983" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24282983" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24984066" />
       <window_info id="UI Designer" order="2" />
@@ -496,7 +496,8 @@
     <MESSAGE value="update chapter 9" />
     <MESSAGE value="section 2 chapter 1" />
     <MESSAGE value="update section 2 chapter 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="update section 2 chapter 1" />
+    <MESSAGE value="section 2 chapter 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="section 2 chapter 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -514,7 +515,7 @@
           <option name="timeStamp" value="184" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="190" />
+      <option name="time" value="197" />
     </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
@@ -526,15 +527,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///usr/lib/jvm/java-7-oracle/src.zip!/java/lang/System.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/Try.java" />
-    <entry file="jar:///usr/lib/jvm/java-7-oracle/src.zip!/java/util/Collections.java" />
-    <entry file="jar:///usr/lib/jvm/java-7-oracle/src.zip!/java/util/ArrayList.java" />
-    <entry file="jar:///usr/lib/jvm/java-7-oracle/src.zip!/java/util/ListIterator.java" />
-    <entry file="jar:///usr/lib/jvm/java-7-oracle/src.zip!/java/util/HashSet.java" />
-    <entry file="jar:///usr/lib/jvm/java-7-oracle/src.zip!/java/util/AbstractSet.java" />
-    <entry file="jar:///usr/lib/jvm/java-7-oracle/src.zip!/java/util/NavigableSet.java" />
-    <entry file="jar:///usr/lib/jvm/java-7-oracle/src.zip!/java/util/TreeSet.java" />
     <entry file="file://$PROJECT_DIR$/src/chapter_10_task_2/Point.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="373">
@@ -579,13 +571,6 @@
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/function/Predicate.java" />
-    <entry file="file://$PROJECT_DIR$/src/Chapter9Task1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter6Task3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -809,20 +794,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/section_2/chapter_2_task_4/MyThread.java">
+    <entry file="jar:///usr/lib/jvm/java-7-oracle/src.zip!/java/lang/Runnable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        <state relative-caret-position="405">
+          <caret line="55" column="10" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-7-oracle/src.zip!/java/util/concurrent/Callable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-7-oracle/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="140" column="6" selection-start-line="140" selection-start-column="6" selection-end-line="140" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/section_2/chapter_2_task_4/Try.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="9" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/section_2/chapter_2_task_4/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/section_2/chapter_3_task_1/FirstClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
           <folding>
-            <element signature="e#672#673#0" expanded="true" />
-            <element signature="e#699#700#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#1064#1065#0" expanded="true" />
+            <element signature="e#1129#1130#0" expanded="true" />
+            <element signature="e#1775#1776#0" expanded="true" />
+            <element signature="e#1805#1806#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-7-oracle/jre/lib/rt.jar!/com/sun/java/util/jar/pack/Package.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7908">
+          <caret line="622" column="23" selection-start-line="622" selection-start-column="23" selection-end-line="622" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/section_2/chapter_3_task_1/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/section_2/chapter_3_task_1/Try.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" lean-forward="true" selection-start-column="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter9Task1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/section_2/chapter_3_task_2/Timer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/section_2/chapter_3_task_2/Try.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="81" selection-start-line="11" selection-start-column="81" selection-end-line="11" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
