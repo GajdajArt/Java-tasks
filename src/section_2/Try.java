@@ -1,16 +1,21 @@
 package section_2;
 
-import java.util.LinkedList;
-
 public class Try {
 
-    public static void main(String[] args) {
-        Chapter1Task3 chapter1Task3 = new Chapter1Task3();
-        chapter1Task3.put("052", " kk");
-        chapter1Task3.put("053", " kf");
-        chapter1Task3.put("054", " kk");
+    private static final String[] USER_A = {"Иванов", "050 737"};
+    private static final String[] USER_B = {"Петров", "050 765"};
+    private static final String[] USER_C = {"Сидоров", "050 745"};
+    private static final String[] USER_D = {"Иванов", "050 861"};
 
-        LinkedList n = chapter1Task3.getByName(" kk");
-        System.out.println(n);
+
+    public static void main(String[] args) {
+
+        PhoneBook phoneBook = new PhoneBook();
+        phoneBook.put(USER_A);
+        phoneBook.put(USER_B);
+        phoneBook.put(USER_C);
+        phoneBook.put(USER_D);
+
+        System.out.println(phoneBook.entrySet());
     }
 }

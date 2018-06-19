@@ -2,12 +2,12 @@ package section_2;
 
 import java.util.*;
 
-public class Chapter1Task3  implements Map {
+public class PhoneBook implements Map {
 
     private HashMap hashMap;
     private LinkedList<User> linkedList;
 
-    public Chapter1Task3() {
+    public PhoneBook() {
         hashMap = new HashMap();
         linkedList = new LinkedList();
     }
@@ -63,6 +63,15 @@ public class Chapter1Task3  implements Map {
         return hashMap.put(phoneNumber, userName);
     }
 
+    public void put(String[] inputUser) {
+
+            if (!hashMap.containsKey(inputUser[1])) {
+                User user = new User(inputUser[1], inputUser[0]);
+                linkedList.add(user);
+                hashMap.put(inputUser[1], inputUser[0]);
+            }
+    }
+
 
 
     @Override
@@ -96,10 +105,10 @@ public class Chapter1Task3  implements Map {
         return hashMap.entrySet();
     }
 
-    public class User{
+    private class User{
 
-        private String userPhoneNumber;
-        private String userName;
+        private final String userPhoneNumber;
+        private final String userName;
 
         public User(String userPhoneNumber, String userName) {
             this.userPhoneNumber = userPhoneNumber;
@@ -110,16 +119,9 @@ public class Chapter1Task3  implements Map {
             return userPhoneNumber;
         }
 
-        public void setUserPhoneNumber(String userPhoneNumber) {
-            this.userPhoneNumber = userPhoneNumber;
-        }
-
         public String getUserName() {
             return userName;
         }
 
-        public void setUserName(String userName) {
-            this.userName = userName;
-        }
     }
 }
