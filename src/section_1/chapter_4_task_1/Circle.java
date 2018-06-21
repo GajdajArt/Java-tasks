@@ -1,5 +1,7 @@
 package section_1.chapter_4_task_1;
 
+import org.junit.jupiter.api.Test;
+
 public class Circle {
 
     private double x;
