@@ -2,57 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0308a05-ae2e-4b56-9b19-249afb1287c5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section_2/chapter_4_task_1_3/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_2/chapter_4_task_1_3/Try.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_2/chapter_5_task_1/Try.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_2/chapter_5_task_2/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_2/chapter_5_task_2/Try.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_2/chapter_6_task_1/MyLoader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter10Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/Chapter10Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter10Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/Chapter10Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter1Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/Chapter1Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter2Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/Chapter2Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter2Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/Chapter2Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter2Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/Chapter2Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter2Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/Chapter2Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter2Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/Chapter2Task5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/Chapter3Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/Chapter3Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/Chapter3Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/Chapter3Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/Chapter3Task5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter6Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/Chapter6Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter6Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/Chapter6Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter6Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/Chapter6Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter6Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/Chapter6Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter6Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/Chapter6Task5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter9Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/Chapter9Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter9Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/Chapter9Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter9Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/Chapter9Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter9Task4_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/Chapter9Task4_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SplitterC6T5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/SplitterC6T5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_10_task_2/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/chapter_10_task_2/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_10_task_2/Try.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/chapter_10_task_2/Try.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_4_task_1/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/chapter_4_task_1/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_4_task_1/Try.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/chapter_4_task_1/Try.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_4_task_2/Try.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/chapter_4_task_2/Try.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_4_task_2/Vector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/chapter_4_task_2/Vector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_4_task_3/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/chapter_4_task_3/Matrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_4_task_3/Try.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/chapter_4_task_3/Try.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_5_task_1/Picture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/chapter_5_task_1/Picture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_5_task_1/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/chapter_5_task_1/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_5_task_1/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/chapter_5_task_1/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_5_task_1/Thriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/chapter_5_task_1/Thriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_7_task_2/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/chapter_7_task_2/Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_7_task_2/QueueException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/chapter_7_task_2/QueueException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_7_task_2/Try.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/chapter_7_task_2/Try.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_8_task_1/IntegerArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/chapter_8_task_1/IntegerArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_8_task_1/Inversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/chapter_8_task_1/Inversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_8_task_1/Try.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/chapter_8_task_1/Try.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/сhapter_10_task_5/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/сhapter_10_task_5/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/сhapter_10_task_5/Try.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/сhapter_10_task_5/Try.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/сhapter_7_task_1/AlasException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/сhapter_7_task_1/AlasException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/сhapter_7_task_1/Converter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/сhapter_7_task_1/Converter.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,28 +19,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Author.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/section_2/chapter_5_task_2/Author.java">
+      <file leaf-file-name="MyLoader.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/section_2/chapter_6_task_1/MyLoader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="e#324#325#0" expanded="true" />
-                <element signature="e#355#356#0" expanded="true" />
-                <element signature="e#299#300#0" expanded="true" />
-                <element signature="e#323#324#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Try.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/section_2/chapter_5_task_2/Try.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            <state relative-caret-position="945">
+              <caret line="63" column="58" selection-start-line="63" selection-start-column="58" selection-end-line="63" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#274#275#0" expanded="true" />
+                <element signature="e#316#317#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -109,6 +47,8 @@
     <findStrings>
       <find>Thread(</find>
       <find>run(</find>
+      <find>findClass</find>
+      <find>loadClass</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -117,7 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Chapter_9_task_1.java" />
         <option value="$PROJECT_DIR$/src/сhapter_7_task_1/Chapter10Task1.java" />
         <option value="$PROJECT_DIR$/src/Chapter10Task2.java" />
         <option value="$PROJECT_DIR$/src/chapter_10_task_2/Point.java" />
@@ -168,6 +107,7 @@
         <option value="$PROJECT_DIR$/src/section_2/chapter_5_task_1/Try.java" />
         <option value="$PROJECT_DIR$/src/section_2/chapter_5_task_2/Try.java" />
         <option value="$PROJECT_DIR$/src/section_2/chapter_5_task_2/Author.java" />
+        <option value="$PROJECT_DIR$/src/section_2/chapter_6_task_1/MyLoader.java" />
       </list>
     </option>
   </component>
@@ -191,6 +131,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -209,13 +152,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="section_2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Java-tasks1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-tasks1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="section_2" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_6_task_1" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -465,7 +412,14 @@
       <option name="project" value="LOCAL" />
       <updated>1529424013533</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="section 2 chapter 4 and 5">
+      <created>1529504640656</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1529504640656</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TodoView">
@@ -478,64 +432,64 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-11" width="1617" height="1062" extended-state="6" />
+    <frame x="65" y="-4" width="1615" height="1054" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32827735" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32950923" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3261105" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3261105" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936078" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24601658" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24920331" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24984066" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.45720476" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.3288719" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32827735" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32857144" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24304539" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32857144" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.329429" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Capture Tool" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="10" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.329429" />
       <window_info id="Favorites" order="6" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -556,7 +510,8 @@
     <MESSAGE value="update section 2 chapter 1" />
     <MESSAGE value="section 2 chapter 2" />
     <MESSAGE value="section 2 chapter 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="section 2 chapter 3" />
+    <MESSAGE value="section 2 chapter 4 and 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="section 2 chapter 4 and 5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -586,23 +541,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/section_2/MyStringKey.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/section_2/Chapter1Task2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/section_2/chapter_2_task_1/MyThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -741,9 +679,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="34" selection-start-column="18" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -751,9 +686,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -827,31 +759,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/section_2/chapter_4_task_1/Point.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="47" selection-end-column="1" />
-          <folding>
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#485#486#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-            <element signature="e#566#567#0" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#659#660#0" expanded="true" />
-            <element signature="e#709#710#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/section_2/chapter_4_task_1/Point.java" />
     <entry file="file://$PROJECT_DIR$/test.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -915,32 +823,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="36" selection-start-column="18" selection-end-column="36" />
-          <folding>
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#1122#1123#0" expanded="true" />
-            <element signature="e#1154#1155#0" expanded="true" />
-            <element signature="e#1189#1190#0" expanded="true" />
-            <element signature="e#1221#1222#0" expanded="true" />
-            <element signature="e#1476#1477#0" expanded="true" />
-            <element signature="e#1511#1512#0" expanded="true" />
-            <element signature="e#1144#1145#0" expanded="true" />
-            <element signature="e#1168#1169#0" expanded="true" />
-            <element signature="e#1199#1200#0" expanded="true" />
-            <element signature="e#1225#1226#0" expanded="true" />
-            <element signature="e#1250#1251#0" expanded="true" />
-            <element signature="e#1274#1275#0" expanded="true" />
-            <element signature="e#1305#1306#0" expanded="true" />
-            <element signature="e#1331#1332#0" expanded="true" />
-            <element signature="e#1366#1367#0" expanded="true" />
-            <element signature="e#1398#1399#0" expanded="true" />
-            <element signature="e#1447#1448#0" expanded="true" />
-            <element signature="e#1489#1490#0" expanded="true" />
-            <element signature="e#1528#1529#0" expanded="true" />
-            <element signature="e#1564#1565#0" expanded="true" />
-            <element signature="e#1733#1734#0" expanded="true" />
-            <element signature="e#1791#1792#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -960,37 +842,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/section_2/chapter_5_task_2/Try.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        <state relative-caret-position="315">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/section_2/chapter_3_task_3/Try.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/section_2/chapter_3_task_3/TryOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/section_2/chapter_3_task_3/Try.java" />
+    <entry file="file://$PROJECT_DIR$/src/section_2/chapter_3_task_3/TryOne.java" />
     <entry file="file://$PROJECT_DIR$/src/section_2/chapter_5_task_2/Author.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state>
+          <caret column="34" selection-start-column="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-7-oracle/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="401" column="32" selection-start-line="401" selection-start-column="23" selection-end-line="401" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/section_2/chapter_6_task_1/MyLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="58" selection-start-line="63" selection-start-column="58" selection-end-line="63" selection-end-column="58" />
           <folding>
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
           </folding>
         </state>
       </provider>
