@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0308a05-ae2e-4b56-9b19-249afb1287c5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/mvp_exemple_project/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mvp_exemple_project/model/IRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mvp_exemple_project/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mvp_exemple_project/model/Repository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mvp_exemple_project/presenter/IPresenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mvp_exemple_project/presenter/Presenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mvp_exemple_project/view/IView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mvp_exemple_project/view/View.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaTasks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaTasks.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section_1/chapter_4_task_1/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1/chapter_4_task_1/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mvp_example_project/presenter/Presenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mvp_example_project/presenter/Presenter.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +20,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Repository.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mvp_exemple_project/model/Repository.java">
+        <entry file="file://$PROJECT_DIR$/src/mvp_example_project/model/Repository.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -38,7 +29,7 @@
         </entry>
       </file>
       <file leaf-file-name="IRepository.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mvp_exemple_project/model/IRepository.java">
+        <entry file="file://$PROJECT_DIR$/src/mvp_example_project/model/IRepository.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
@@ -47,7 +38,7 @@
         </entry>
       </file>
       <file leaf-file-name="IView.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mvp_exemple_project/view/IView.java">
+        <entry file="file://$PROJECT_DIR$/src/mvp_example_project/view/IView.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
@@ -58,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Presenter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mvp_exemple_project/presenter/Presenter.java">
+      <file leaf-file-name="Presenter.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/mvp_example_project/presenter/Presenter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+            <state relative-caret-position="330">
+              <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#389#390#0" expanded="true" />
@@ -73,7 +64,7 @@
         </entry>
       </file>
       <file leaf-file-name="View.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mvp_exemple_project/view/View.java">
+        <entry file="file://$PROJECT_DIR$/src/mvp_example_project/view/View.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
               <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
@@ -85,7 +76,7 @@
         </entry>
       </file>
       <file leaf-file-name="Product.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mvp_exemple_project/model/Product.java">
+        <entry file="file://$PROJECT_DIR$/src/mvp_example_project/model/Product.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -94,7 +85,7 @@
         </entry>
       </file>
       <file leaf-file-name="IPresenter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mvp_exemple_project/presenter/IPresenter.java">
+        <entry file="file://$PROJECT_DIR$/src/mvp_example_project/presenter/IPresenter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
@@ -102,11 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/mvp_exemple_project/MainTest.java">
+      <file leaf-file-name="MainTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mvp_example_project/MainTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+            <state relative-caret-position="270">
+              <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -138,8 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/сhapter_10_task_5/Chapter10Task4.java" />
-        <option value="$PROJECT_DIR$/src/Chapter10Task4.java" />
         <option value="$PROJECT_DIR$/src/Chapter9task1.java" />
         <option value="$PROJECT_DIR$/src/Chapter9task2.java" />
         <option value="$PROJECT_DIR$/src/Chapter9task4.java" />
@@ -189,6 +178,8 @@
         <option value="$PROJECT_DIR$/src/mvp_exemple_project/view/IView.java" />
         <option value="$PROJECT_DIR$/src/mvp_exemple_project/presenter/Presenter.java" />
         <option value="$PROJECT_DIR$/src/mvp_exemple_project/presenter/IPresenter.java" />
+        <option value="$PROJECT_DIR$/src/mvp_example_project/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/mvp_example_project/presenter/Presenter.java" />
       </list>
     </option>
   </component>
@@ -231,28 +222,7 @@
               <item name="Java-tasks1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-tasks1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mvp_exemple_project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-tasks1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-tasks1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mvp_exemple_project" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-tasks1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-tasks1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mvp_exemple_project" type="462c0819:PsiDirectoryNode" />
-              <item name="presenter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-tasks1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-tasks1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mvp_exemple_project" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="mvp_example_project" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-tasks1" type="b2602c69:ProjectViewProjectNode" />
@@ -269,6 +239,11 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/mvp_exemple_project" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -540,8 +515,20 @@
       <option name="project" value="LOCAL" />
       <updated>1529571364245</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="mvp example">
+      <created>1529593813513</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1529593813513</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MainTest - 2018.06.21 at 18h 09m 11s.xml">
+      <configuration name="MainTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -554,15 +541,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1615" height="1054" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32827735" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32950923" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3261105" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3261105" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936078" />
       <window_info id="Capture Tool" order="2" />
@@ -581,7 +570,6 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32827735" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
@@ -632,7 +620,8 @@
     <MESSAGE value="section 2 chapter 3" />
     <MESSAGE value="section 2 chapter 4 and 5" />
     <MESSAGE value="section 2 chapter 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="section 2 chapter 6" />
+    <MESSAGE value="mvp example" />
+    <option name="LAST_COMMIT_MESSAGE" value="mvp example" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -975,7 +964,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mvp_exemple_project/view/View.java">
+    <entry file="file://$PROJECT_DIR$/src/mvp_example_project/view/View.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
@@ -985,7 +974,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mvp_exemple_project/view/IView.java">
+    <entry file="file://$PROJECT_DIR$/src/mvp_example_project/view/IView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
@@ -995,52 +984,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mvp_exemple_project/presenter/Presenter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mvp_exemple_project/presenter/IPresenter.java">
+    <entry file="file://$PROJECT_DIR$/src/mvp_example_project/presenter/IPresenter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mvp_exemple_project/model/Repository.java">
+    <entry file="file://$PROJECT_DIR$/src/mvp_example_project/model/Repository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mvp_exemple_project/model/Product.java">
+    <entry file="file://$PROJECT_DIR$/src/mvp_example_project/model/Product.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mvp_exemple_project/model/IRepository.java">
+    <entry file="file://$PROJECT_DIR$/src/mvp_example_project/model/IRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mvp_exemple_project/MainTest.java">
+    <entry file="file://$PROJECT_DIR$/src/mvp_example_project/MainTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        <state relative-caret-position="270">
+          <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mvp_example_project/presenter/Presenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
           </folding>
         </state>
       </provider>

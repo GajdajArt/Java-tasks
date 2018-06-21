@@ -29,6 +29,7 @@ public class Presenter implements IPresenter {
     @Override
     public void attachView(IView view) {
         this.view = view;
+        refreshViewList();
     }
 
     @Override
