@@ -2,7 +2,7 @@ package mvp_example_project;
 
 
 import mvp_example_project.model.Product;
-import mvp_example_project.view.View;
+import mvp_example_project.view.MainView;
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
@@ -14,7 +14,7 @@ public class MainTest extends Assert {
 
 
     private final ArrayList<Product> list = new ArrayList();
-    private View view;
+    private MainView view;
 
     @Before
     public void setUp() {
@@ -22,7 +22,7 @@ public class MainTest extends Assert {
         list.add(new Product("Хлеб", "10,5"));
         list.add(new Product("Вода", "20"));
         list.add(new Product("Спички", "0,5"));
-        view = new View();
+        view = new MainView();
 
     }
 
